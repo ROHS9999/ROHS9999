@@ -1,85 +1,259 @@
-# 👋 Hi, I'm Rohan Swarnkar
+<h1 align="center">Hi 👋, I'm Rohan Swarnkar</h1>
+<h3 align="center">AI/ML Enthusiast • Full Stack Developer • C++ Programmer</h3>
 
-### 💻 AI/ML Enthusiast | Full Stack Developer | C++ Programmer
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI%2FML+Enthusiast;Full+Stack+Developer;Competitive+Programmer;Always+Learning+New+Things!" />
+</p>
 
-I'm a Computer Science (AI & ML) undergraduate at Bennett University passionate about building real-world software, solving Data Structures & Algorithms problems, and exploring Artificial Intelligence.
-
-- 🔭 Currently building AI-powered applications and Full Stack projects
-- 🌱 Learning C++, DSA, JavaScript, React, Node.js, Express.js & MongoDB
-- 🤖 Interested in AI/ML, LLMs, RAG Systems, and Software Engineering
-- 💬 Ask me about C++, Python, React, DSA, AI/ML, and Git
-- 📫 Reach me at: **rohankumar88299@gmail.com**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ROHS9999&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+<table>
+<tr>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-swarnkar-2b3154292)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ro.han_sw)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohankumar88299@gmail.com)
+<td width="55%">
+
+# 👨‍💻 About Me
+
+🎓 B.Tech Computer Science (AI & ML) student at **Bennett University**
+
+💻 Passionate about Software Development and AI
+
+🌱 Currently learning
+
+- Data Structures & Algorithms
+- Full Stack Development
+- Machine Learning
+- Large Language Models (LLMs)
+
+🚀 Currently Building
+
+- AI-powered Applications
+- Full Stack Projects
+- Open Source Projects
+
+🎯 Goal
+
+Become a Software Development Engineer.
+
+⚡ Fun Fact
+
+> I enjoy turning ideas into real-world software.
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="YOUR_GIF_URL_HERE" width="350">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/rohan-swarnkar-2b3154292">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:rohankumar88299@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://instagram.com/ro.han_sw">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+## Languages
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chart.js&logoColor=white)
+<p>
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python"/>
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+<img src="https://skillicons.dev/icons?i=javascript"/>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
 
 ---
 
-# 📈 GitHub Analytics
+## Frontend
 
-![](https://streak-stats.demolab.com/?user=ROHS9999&theme=tokyonight&hide_border=true)
+<p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHS9999&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## Backend
 
-![](https://github-profile-trophy.vercel.app/?username=ROHS9999&theme=tokyonight&no-frame=true&margin-w=15)
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+</p>
 
 ---
 
-## ✨ Quote
+## AI / ML
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=npm"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ROHS9999&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHS9999&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ROHS9999&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+</div>
+
+> **For a real animated snake based on your own contributions, replace the image above after setting up the GitHub Action:**
+>
+> ```text
+> https://raw.githubusercontent.com/ROHS9999/ROHS9999/output/github-contribution-grid-snake-dark.svg
+> ```
+
+---
+
+# 📌 Current Focus
+
+```text
+✔ Data Structures & Algorithms
+
+✔ Full Stack Development
+
+✔ Artificial Intelligence
+
+✔ Machine Learning
+
+✔ Open Source
+
+✔ Software Engineering
+```
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHS9999&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# ✨ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+</p>
