@@ -88,14 +88,6 @@
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ROHS9999/ROHS9999/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
-
-<br/>
-
 ## 📌 Current Focus
 
 <div align="center">
